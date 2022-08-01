@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "736242233060",
+    "project_id": "text-detector-bfd2c",
+    "storage_bucket": "text-detector-bfd2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736242233060:android:c4ebaa3da1a9d2f6bf46f1",
+        "android_client_info": {
+          "package_name": "com.example.text_scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736242233060-bago5t5hci536rrtknbfjgas1veolpts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEGpifSll-aH2fo4V1ke8XmtPRFF5oKXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736242233060-bago5t5hci536rrtknbfjgas1veolpts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
